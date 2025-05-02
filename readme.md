@@ -1,7 +1,7 @@
 
 <div id="top" align="center">
 
-# [Lie-algebra Adaptive Tracking Control for Rigid Body Dynamics]()
+# [Learning-based Geometric Tracking Control for Rigid Body Dynamics]()
 
 </div>
 
